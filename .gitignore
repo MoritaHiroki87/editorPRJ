@@ -1,0 +1,9 @@
+venv
+pycache
+staticfiles
+db.sqlite3
+*.py[co]
+
+.idea
+.idea//workspace.xml
+.idea//tasks.xml
